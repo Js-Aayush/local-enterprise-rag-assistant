@@ -1,0 +1,16 @@
+# Python environments
+.venv/
+.venv-win/
+.venv312/
+__pycache__/
+*.py[cod]
+
+# Secrets
+api_key.txt
+.env
+
+# Local database
+chroma_db/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
